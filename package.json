@@ -1,0 +1,18 @@
+{
+  "name": "h5p-ractive",
+  "version": "0.8.14",
+  "description": "Ractive library wrapper for H5P",
+  "main": "ractive.min.js",
+  "scripts": {
+    "build": "cp node_modules/ractive/ractive.min.js ."
+  },
+  "keywords": [
+    "h5p",
+    "library"
+  ],
+  "author": "RactiveJS contributors",
+  "license": "MIT",
+  "dependencies": {
+    "ractive": "^0.8.14"
+  }
+}
