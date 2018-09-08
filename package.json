@@ -4,7 +4,8 @@
   "description": "Ractive library wrapper for H5P",
   "main": "ractive.min.js",
   "scripts": {
-    "build": "cp node_modules/ractive/ractive.min.js ."
+    "build": "cp node_modules/ractive/ractive.min.js .",
+    "dist": "cp ractive.min.js dist && cp library.json dist"
   },
   "keywords": [
     "h5p",
