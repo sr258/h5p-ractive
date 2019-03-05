@@ -14,6 +14,5 @@
     {
       "path": "ractive.min.js"
     }
-  ],
-  "preloadedCss": []
+  ]
 }
